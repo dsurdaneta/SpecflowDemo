@@ -1,0 +1,7 @@
+D:\others\SpecflowDemo\SpecflowDemo\bin\Debug\SpecflowDemo.dll.config
+D:\others\SpecflowDemo\SpecflowDemo\bin\Debug\SpecflowDemo.dll
+D:\others\SpecflowDemo\SpecflowDemo\bin\Debug\SpecflowDemo.pdb
+D:\others\SpecflowDemo\SpecflowDemo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\others\SpecflowDemo\SpecflowDemo\bin\Debug\TechTalk.SpecFlow.dll
+D:\others\SpecflowDemo\SpecflowDemo\obj\Debug\SpecflowDemo.dll
+D:\others\SpecflowDemo\SpecflowDemo\obj\Debug\SpecflowDemo.pdb
